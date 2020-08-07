@@ -1,0 +1,2 @@
+Bus Arrival Api powered by 사로로
+https://saroro.develope.dev/bus/infoByStn/index.php?stn=${bus_stop_name}
